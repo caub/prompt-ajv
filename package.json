@@ -1,0 +1,28 @@
+{
+  "name": "prompt-ajv",
+  "version": "1.0.0",
+  "description": "prompt with ajv validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo OK"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caub/prompt-ajv.git"
+  },
+  "keywords": [
+    "prompt",
+    "ajv",
+    "repl"
+  ],
+  "author": "caub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caub/prompt-ajv/issues"
+  },
+  "homepage": "https://github.com/caub/prompt-ajv#readme",
+  "peerDependencies": {
+    "ajv": ">=6",
+    "prompt-sync": ">=4"
+  }
+}
